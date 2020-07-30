@@ -1,10 +1,10 @@
 Results for Expectation-maximisation for variable selection in audio restoration.
 
--Folder results denoising_1 contains audible results of the denoising experiment of Section IV.1
+-Folder denoising_1 contains audible results of the denoising experiment of Section IV.1
  (short instrument/timbre excerpts)
--Folder results denoising_2 contains audible results of the denoising experiment of Section IV.2
+-Folder denoising_2 contains audible results of the denoising experiment of Section IV.2
  (long polyphonic excerpt).
--Folder results missing_data contains audible results for the experiment of Section IV.3
+-Folder missing_data contains audible results for the experiment of Section IV.3
  (short glockenspiel excerpt and long trumpet recording).
 
 When the results reported results have been obtained by averaging over many realisations 
